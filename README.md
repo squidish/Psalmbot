@@ -1,7 +1,13 @@
 # Psalmbot
 
-This bot combines the python libraries 
+This bot combines the python libraries tweepy and markovify to produce a bot that automatically generates Psalm like utterances and tweets them
 
-A bot to automatically generate Psalm like utterances and tweet them
-Put your own authkey details in 
+## Dependencies
 
+Tweepy:  
+
+https://github.com/tweepy/tweepy
+
+Markovify:
+
+https://github.com/jsvine/markovify
